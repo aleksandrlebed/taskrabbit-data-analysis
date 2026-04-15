@@ -29,3 +29,11 @@ SELECT
 FROM taskrabbit_raw
 GROUP BY category
 ORDER BY avg_price DESC;
+
+-- Revenue by date
+SELECT
+    task_date,
+    SUM(price) AS revenue
+FROM taskrabbit_raw
+GROUP BY task_date
+ORDER BY task_date;
