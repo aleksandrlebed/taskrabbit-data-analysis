@@ -62,3 +62,11 @@ The analysis was performed using SQL:
 - This is significantly higher than the average daily revenue.
 - Revenue distribution is uneven, with a few peak days generating a large portion of income.
 - This suggests that maximizing high-value days could significantly increase total revenue.
+
+## Weekday Analysis
+
+- Weekend (Friday–Sunday) generates the highest revenue.
+- Sunday is the most profitable day.
+- Mid-week (Tuesday–Thursday) shows lower performance.
+- Monday performs better than expected, possibly due to spillover demand.
+- Focusing on weekends can significantly increase total earnings.
