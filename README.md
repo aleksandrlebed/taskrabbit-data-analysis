@@ -55,3 +55,10 @@ The analysis was performed using SQL:
 - On average, there are around 2–3 tasks per day.
 - Revenue fluctuates significantly depending on the day.
 - Some days show spikes in revenue, indicating higher workload or higher-value tasks.
+
+## Peak Days Analysis
+
+- The highest revenue days reach up to $500+.
+- This is significantly higher than the average daily revenue.
+- Revenue distribution is uneven, with a few peak days generating a large portion of income.
+- This suggests that maximizing high-value days could significantly increase total revenue.
