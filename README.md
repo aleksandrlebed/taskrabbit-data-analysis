@@ -48,3 +48,10 @@ The analysis was performed using SQL:
 - Number of tasks by category
 - Average price per task
 - Average price by category
+
+## Time Analysis
+
+- The dataset covers 184 days of activity.
+- On average, there are around 2–3 tasks per day.
+- Revenue fluctuates significantly depending on the day.
+- Some days show spikes in revenue, indicating higher workload or higher-value tasks.
