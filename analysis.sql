@@ -56,3 +56,11 @@ SELECT
 FROM taskrabbit_raw
 GROUP BY weekday
 ORDER BY total_revenue DESC;
+
+-- Revenue per task (efficiency)
+SELECT
+    category,
+    SUM(price) / COUNT(*) AS revenue_per_task
+FROM taskrabbit_raw
+GROUP BY category
+ORDER BY revenue_per_task DESC;
