@@ -37,3 +37,12 @@ SELECT
 FROM taskrabbit_raw
 GROUP BY task_date
 ORDER BY task_date;
+
+-- Top dates by revenue
+SELECT
+    task_date,
+    SUM(price) AS revenue
+FROM taskrabbit_raw
+GROUP BY task_date
+ORDER BY revenue DESC
+LIMIT 10;
