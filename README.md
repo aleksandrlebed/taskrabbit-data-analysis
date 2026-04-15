@@ -78,3 +78,4 @@ The analysis was performed using SQL:
 - TV Mounting also shows strong performance with high revenue per task.
 - Furniture Assembly, despite high volume, has lower revenue per task, indicating lower efficiency.
 - Focusing on high-efficiency categories can significantly improve overall earnings.
+- This metric helps identify where effort can be optimized for maximum return.
