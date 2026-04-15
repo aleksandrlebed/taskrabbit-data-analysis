@@ -46,3 +46,13 @@ FROM taskrabbit_raw
 GROUP BY task_date
 ORDER BY revenue DESC
 LIMIT 10;
+
+-- Revenue by weekday
+SELECT
+    TO_CHAR(task_date, 'FMDay') AS weekday,
+    AVG(price) AS avg_revenue,
+    SUM(price) AS total_revenue,
+    COUNT(*) AS total_tasks
+FROM taskrabbit_raw
+GROUP BY weekday
+ORDER BY total_revenue DESC;
