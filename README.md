@@ -26,3 +26,15 @@ Top categories by revenue:
 - TV Mounting has a strong average price and can be further optimized by increasing pricing.
 - Furniture Assembly has a high number of tasks but lower average revenue per task, making it less efficient.
 - Focusing on high-value categories can significantly improve overall revenue.
+
+## Dataset
+
+The dataset contains ~500 rows of TaskRabbit tasks with the following columns:
+
+- task_id
+- task_date
+- category
+- price
+- status
+- client_id
+- hours
