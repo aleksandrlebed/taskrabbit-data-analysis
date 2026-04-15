@@ -70,3 +70,11 @@ The analysis was performed using SQL:
 - Mid-week (Tuesday–Thursday) shows lower performance.
 - Monday performs better than expected, possibly due to spillover demand.
 - Focusing on weekends can significantly increase total earnings.
+
+## Efficiency Analysis (Revenue per Task)
+
+- Revenue per task was calculated for each category to evaluate efficiency.
+- General Mounting has the highest revenue per task, making it the most efficient category.
+- TV Mounting also shows strong performance with high revenue per task.
+- Furniture Assembly, despite high volume, has lower revenue per task, indicating lower efficiency.
+- Focusing on high-efficiency categories can significantly improve overall earnings.
