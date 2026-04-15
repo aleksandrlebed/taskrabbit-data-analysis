@@ -38,3 +38,13 @@ The dataset contains ~500 rows of TaskRabbit tasks with the following columns:
 - status
 - client_id
 - hours
+
+## Analysis
+
+The analysis was performed using SQL:
+
+- Total revenue calculation
+- Revenue by category
+- Number of tasks by category
+- Average price per task
+- Average price by category
