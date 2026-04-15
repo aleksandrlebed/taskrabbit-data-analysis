@@ -17,3 +17,15 @@ SELECT
 FROM taskrabbit_raw
 GROUP BY category
 ORDER BY total_tasks DESC;
+
+-- Average price overall
+SELECT AVG(price) AS avg_price
+FROM taskrabbit_raw;
+
+-- Average price by category
+SELECT 
+    category,
+    AVG(price) AS avg_price
+FROM taskrabbit_raw
+GROUP BY category
+ORDER BY avg_price DESC;
