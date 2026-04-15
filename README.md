@@ -79,3 +79,18 @@ The analysis was performed using SQL:
 - Furniture Assembly, despite high volume, has lower revenue per task, indicating lower efficiency.
 - Focusing on high-efficiency categories can significantly improve overall earnings.
 - This metric helps identify where effort can be optimized for maximum return.
+
+## Final Insights & Recommendations
+
+- General Mounting and TV Mounting generate the highest total revenue, making them the core income drivers.
+- General Mounting is the most efficient category in terms of revenue per task.
+- TV Mounting also shows high efficiency, indicating potential for price optimization.
+- Furniture Assembly has high task volume but lower revenue per task, making it less efficient.
+
+### Business Recommendations
+
+- Focus on increasing availability in General Mounting, as it provides both high volume and high returns.
+- Consider increasing pricing in TV Mounting due to strong demand and high average revenue.
+- Reduce focus on Furniture Assembly or optimize workflow, as it generates lower revenue per unit of effort.
+- Prioritize working on weekends (Friday–Sunday), as these days generate the highest revenue.
+- Use weekdays for baseline income, but not as the primary growth driver.
